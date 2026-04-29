@@ -15,7 +15,7 @@
       <td align="center">4</td>
       <td align="center">0</td>
       <td align="center">0</td>
-      <td align="center">1 / 75</td>
+      <td align="center">4 / 75</td>
     </tr>
   </table>
 
