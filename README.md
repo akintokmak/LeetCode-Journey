@@ -1,28 +1,40 @@
-# LeetCode Journey 🚀
+<div align="center">
+  <h1>💻 LeetCode Journey</h1>
+  <p><b>Reggie45</b> | Computer Engineering Student</p>
 
-This repository is a personal archive of my algorithmic problem-solving journey. As a Computer Engineering student, I focus on writing efficient solutions and mastering data structures.
+  <br />
 
-## 📊 Progress Status
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🟢_EASY-4-28a745?style=for-the-badge" alt="Easy" />
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🟡_MEDIUM-0-ffc107?style=for-the-badge" alt="Medium" />
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/🔴_HARD-0-dc3545?style=for-the-badge" alt="Hard" />
+      </td>
+    </tr>
+  </table>
 
-![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge&logo=leetcode)
-![Medium](https://img.shields.io/badge/Medium-0-orange?style=for-the-badge&logo=leetcode)
-![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge&logo=leetcode)
+  <br />
 
-> *Last Updated: April 2026*
+  <a href="https://leetcode.com/u/Reggie45/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
 ---
 
-## 📂 Project Structure
+### 📂 Roadmap & Structure
 
-Solutions are organized by difficulty to ensure a structured learning path:
-
-* **🟢 Easy:** Fundamental logic and basic data structures.
-* **🟡 Medium:** Advanced algorithms and optimization.
-* **🔴 Hard:** Complex logic and architectural challenges.
-
-## 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **Focus:** Time & Space Complexity (Big O)
+* **Easy** ➔ *Focusing on Array manipulation, Hash Tables, and fundamental logic.*
+* **Medium** ➔ *Exploring Dynamic Programming, Trees, and Graph theory.*
+* **Hard** ➔ *Mastering advanced architectural logic and heavy optimizations.*
 
 ---
-[🔗 Visit My LeetCode Profile (Reggie45)](https://leetcode.com/u/Reggie45/)
+
+<div align="center">
+  <sub>"The only way to learn a new programming language is by writing programs in it." - <b>Dennis Ritchie</b></sub>
+</div>
