@@ -13,9 +13,11 @@ The solutions are organized by their difficulty level on LeetCode:
 Each solution folder contains:
 - `solution.py`: My Python implementation.
 - `README.md`: A brief explanation of the problem and the logic behind my solution.
-- LeetCode 75 : https://leetcode.com/studyplan/leetcode-75/
+## 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats-rocket.vercel.app/api?username=Reggie45&theme=dark" alt="LeetCode Stats" />
+</p>
 ## 📊 Progress Summary
-
 | Difficulty | Solved |
 | :--- | :--- |
 | 🟢 Easy | 4 |
