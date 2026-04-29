@@ -1,40 +1,49 @@
 <div align="center">
-  <h1>💻 LeetCode Journey</h1>
-  <p><b>Reggie45</b> | Computer Engineering Student</p>
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=LeetCode%2075%20Journey&fontSize=70&animation=fadeIn" />
 
-  <br />
+  <p><b>Reggie45</b> | Computer Engineering Student | Python & Algorithms</p>
 
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🟢_EASY-4-28a745?style=for-the-badge" alt="Easy" />
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🟡_MEDIUM-0-ffc107?style=for-the-badge" alt="Medium" />
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.shields.io/badge/🔴_HARD-0-dc3545?style=for-the-badge" alt="Hard" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <a href="https://leetcode.com/u/Reggie45/">
-    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <p>
+    <img src="https://img.shields.io/badge/🟢_EASY-4-28a745?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/🟡_MEDIUM-0-ffc107?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/🔴_HARD-0-dc3545?style=for-the-badge&logo=leetcode" />
+  </p>
 </div>
 
 ---
 
-### 📂 Roadmap & Structure
+### 🔥 LeetCode 75 Challenge Progress
+Bu bölüm, teknik mülakatların temeli olan "LeetCode 75" çalışma planındaki ilerlememi takip eder.
 
-* **Easy** ➔ *Focusing on Array manipulation, Hash Tables, and fundamental logic.*
-* **Medium** ➔ *Exploring Dynamic Programming, Trees, and Graph theory.*
-* **Hard** ➔ *Mastering advanced architectural logic and heavy optimizations.*
+**Current Progress: 1 / 75**
+<p>
+  <img src="https://geps.dev/progress/1" alt="LeetCode 75 Progress Bar" />
+</p>
 
 ---
 
+### 📂 Repository Roadmap
+
+* **[🟢 Easy](./Easy)**: Fundamental logic, Array basics, and String manipulation.
+* **[🟡 Medium](./Medium)**: Advanced Data Structures, DP, and Graph algorithms.
+* **[🔴 Hard](./Hard)**: Optimized solutions for complex architectural problems.
+
+---
+
+### 🛠️ Technical Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<div align="right">
+  <a href="https://leetcode.com/u/Reggie45/">
+    <b>Check My Full Profile ➔</b>
+  </a>
+</div>
+
+---
 <div align="center">
-  <sub>"The only way to learn a new programming language is by writing programs in it." - <b>Dennis Ritchie</b></sub>
+  <sub>"Talk is cheap. Show me the code." - <b>Linus Torvalds</b></sub>
 </div>
