@@ -1,34 +1,26 @@
 # LeetCode Journey 🚀
 
-This repository is my personal collection of algorithmic challenges solved on LeetCode. As a Computer Engineering student, I use these problems to sharpen my logic, understand complex data structures, and master time/space complexity analysis.
+This repository serves as a personal archive for my algorithmic problem-solving journey. As a Computer Engineering student, I focus on writing clean, efficient, and well-documented solutions.
 
-## 📊 My LeetCode Statistics
+## 📊 Performance Overview
 
 <p align="center">
-  <img src="https://leetcode-stats-rocket.vercel.app/api?username=akintokmak&theme=dark" alt="Akın's LeetCode Stats" />
+  <img src="https://leetcode-stats-rocket.vercel.app/api?username=Reggie45&theme=dark" alt="Reggie45's LeetCode Stats" />
 </p>
 
-> *The stats above are automatically updated as I solve new problems.*
+---
 
-## 🏆 Problem Archive
+## 📂 Project Structure
 
-| # | Problem | Difficulty | Solution | Key Concepts |
-| :--- | :--- | :---: | :---: | :--- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Easy/TwoSum/solution.py) | Array, Hash Table |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | [Python](./Medium/AddTwoNumbers/solution.py) | Linked List, Math |
+Solutions are categorized by difficulty to ensure a structured learning path:
 
-## 📁 Repository Structure
+* **🟢 Easy:** Mastering basic data structures and syntax.
+* **🟡 Medium:** Exploring complex algorithms and optimization.
+* **🔴 Hard:** Tackling advanced architectural and logic challenges.
 
-My solutions are organized by difficulty to keep the workspace clean and professional:
-
-- **🟢 Easy:** Fundamental logic and basic data structures.
-- **🟡 Medium:** Advanced algorithms, optimization, and complex data structures.
-- **🔴 Hard:** Highly complex problems requiring deep algorithmic knowledge.
-
-## 🛠️ Tech Stack & Tools
-- **Language:** Python 3.x
-- **Environment:** PyCharm / VS Code
-- **Version Control:** Git & GitHub
+## 🛠️ Tech Stack
+- **Primary Language:** Python 3.x
+- **Focus Areas:** Data Structures, Algorithms, Time Complexity (Big O)
 
 ---
-*“First, solve the problem. Then, write the code.” – John Johnson*
+[View My Full LeetCode Profile](https://leetcode.com/u/Reggie45/)
