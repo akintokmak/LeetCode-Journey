@@ -1,49 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=LeetCode%2075%20Journey&fontSize=70&animation=fadeIn" />
+  <h1>🚀 LeetCode 75 Journey</h1>
+  <p><b>Reggie45</b> | Computer Engineering Student | Problem Solver</p>
 
-  <p><b>Reggie45</b> | Computer Engineering Student | Python & Algorithms</p>
+  <br />
+
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><b>🟢 EASY</b></td>
+      <td align="center" width="120"><b>🟡 MEDIUM</b></td>
+      <td align="center" width="120"><b>🔴 HARD</b></td>
+      <td align="center" width="150"><b>🎯 LC 75</b></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="center">0</td>
+      <td align="center">0</td>
+      <td align="center">1 / 75</td>
+    </tr>
+  </table>
+
+  <br />
 
   <p>
-    <img src="https://img.shields.io/badge/🟢_EASY-4-28a745?style=for-the-badge&logo=leetcode" />
-    <img src="https://img.shields.io/badge/🟡_MEDIUM-0-ffc107?style=for-the-badge&logo=leetcode" />
-    <img src="https://img.shields.io/badge/🔴_HARD-0-dc3545?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Data_Structures-Focus-blue?style=flat-square" />
   </p>
 </div>
 
 ---
 
-### 🔥 LeetCode 75 Challenge Progress
-Bu bölüm, teknik mülakatların temeli olan "LeetCode 75" çalışma planındaki ilerlememi takip eder.
-
-**Current Progress: 1 / 75**
-<p>
-  <img src="https://geps.dev/progress/1" alt="LeetCode 75 Progress Bar" />
-</p>
-
----
+### 📌 Project Overview
+This repository tracks my progress through the **LeetCode 75** study plan—a curated list of the most essential problems for mastering technical interviews. Each solution is implemented in **Python** with a focus on optimal time and space complexity.
 
 ### 📂 Repository Roadmap
-
-* **[🟢 Easy](./Easy)**: Fundamental logic, Array basics, and String manipulation.
-* **[🟡 Medium](./Medium)**: Advanced Data Structures, DP, and Graph algorithms.
-* **[🔴 Hard](./Hard)**: Optimized solutions for complex architectural problems.
+* **[Easy](./Easy)**: Strengthening fundamentals in Arrays, Strings, and Hash Maps.
+* **[Medium](./Medium)**: Mastering Two Pointers, Sliding Windows, and Trees.
+* **[Hard](./Hard)**: Tackling complex Dynamic Programming and Graph problems.
 
 ---
-
-### 🛠️ Technical Toolkit
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
 
 <div align="right">
   <a href="https://leetcode.com/u/Reggie45/">
-    <b>Check My Full Profile ➔</b>
+    <b>View My Full LeetCode Profile ➔</b>
   </a>
 </div>
 
----
+<br />
+
 <div align="center">
-  <sub>"Talk is cheap. Show me the code." - <b>Linus Torvalds</b></sub>
+  <sub>"The best way to predict the future is to invent it." - <b>Alan Kay</b></sub>
 </div>
