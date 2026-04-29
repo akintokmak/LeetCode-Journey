@@ -13,12 +13,12 @@ The solutions are organized by their difficulty level on LeetCode:
 Each solution folder contains:
 - `solution.py`: My Python implementation.
 - `README.md`: A brief explanation of the problem and the logic behind my solution.
-
+- LeetCode 75 : https://leetcode.com/studyplan/leetcode-75/
 ## 📊 Progress Summary
 
 | Difficulty | Solved |
 | :--- | :--- |
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
