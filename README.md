@@ -19,6 +19,7 @@ Each solution folder contains:
 </p>
 ## 📊 Progress Summary
 | Difficulty | Solved |
+
 | :--- | :--- |
 | 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
