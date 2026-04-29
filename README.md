@@ -1,34 +1,34 @@
 # LeetCode Journey 🚀
 
-This repository is dedicated to my daily practice of solving algorithmic problems on LeetCode. As a Computer Engineering student, my goal is to strengthen my understanding of data structures, algorithms, and time complexity.
+This repository is my personal collection of algorithmic challenges solved on LeetCode. As a Computer Engineering student, I use these problems to sharpen my logic, understand complex data structures, and master time/space complexity analysis.
 
-## 📂 Repository Structure
+## 📊 My LeetCode Statistics
 
-The solutions are organized by their difficulty level on LeetCode:
-
-- **Easy:** Fundamental problems focusing on basic data structures and syntax.
-- **Medium:** Problems involving more complex logic, such as dynamic programming, trees, and graphs.
-- **Hard:** Challenging problems requiring optimized solutions and advanced algorithms.
-
-Each solution folder contains:
-- `solution.py`: My Python implementation.
-- `README.md`: A brief explanation of the problem and the logic behind my solution.
-## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-rocket.vercel.app/api?username=Reggie45&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-rocket.vercel.app/api?username=akintokmak&theme=dark" alt="Akın's LeetCode Stats" />
 </p>
-## 📊 Progress Summary
-| Difficulty | Solved |
 
-| :--- | :--- |
-| 🟢 Easy | 4 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
+> *The stats above are automatically updated as I solve new problems.*
 
-## 🧠 Core Concepts Explored
-- Array Manipulation
-- Hash Maps (Dictionary in Python)
-- Big O Notation Analysis (Time & Space Complexity)
+## 🏆 Problem Archive
+
+| # | Problem | Difficulty | Solution | Key Concepts |
+| :--- | :--- | :---: | :---: | :--- |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Easy/TwoSum/solution.py) | Array, Hash Table |
+| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | [Python](./Medium/AddTwoNumbers/solution.py) | Linked List, Math |
+
+## 📁 Repository Structure
+
+My solutions are organized by difficulty to keep the workspace clean and professional:
+
+- **🟢 Easy:** Fundamental logic and basic data structures.
+- **🟡 Medium:** Advanced algorithms, optimization, and complex data structures.
+- **🔴 Hard:** Highly complex problems requiring deep algorithmic knowledge.
+
+## 🛠️ Tech Stack & Tools
+- **Language:** Python 3.x
+- **Environment:** PyCharm / VS Code
+- **Version Control:** Git & GitHub
 
 ---
-*Follow my progress as I tackle new challenges every day!*
+*“First, solve the problem. Then, write the code.” – John Johnson*
