@@ -1,31 +1,53 @@
-# LeetCode Journey 🚀
+<div align="center">
+  <h1>🚀 LeetCode 75 Journey</h1>
+  <p><b>Reggie45</b> | Computer Engineering Student | Problem Solver</p>
 
-This repository is dedicated to my daily practice of solving algorithmic problems on LeetCode. As a Computer Engineering student, my goal is to strengthen my understanding of data structures, algorithms, and time complexity.
+  <br />
 
-## 📂 Repository Structure
+  <table align="center">
+    <tr>
+      <td align="center" width="120"><b>🟢 EASY</b></td>
+      <td align="center" width="120"><b>🟡 MEDIUM</b></td>
+      <td align="center" width="120"><b>🔴 HARD</b></td>
+      <td align="center" width="150"><b>🎯 LC 75</b></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">0</td>
+      <td align="center">0</td>
+      <td align="center">4 / 75</td>
+    </tr>
+  </table>
 
-The solutions are organized by their difficulty level on LeetCode:
+  <br />
 
-- **Easy:** Fundamental problems focusing on basic data structures and syntax.
-- **Medium:** Problems involving more complex logic, such as dynamic programming, trees, and graphs.
-- **Hard:** Challenging problems requiring optimized solutions and advanced algorithms.
-
-Each solution folder contains:
-- `solution.py`: My Python implementation.
-- `README.md`: A brief explanation of the problem and the logic behind my solution.
-
-## 📊 Progress Summary
-
-| Difficulty | Solved |
-| :--- | :--- |
-| 🟢 Easy | 3 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-
-## 🧠 Core Concepts Explored
-- Array Manipulation
-- Hash Maps (Dictionary in Python)
-- Big O Notation Analysis (Time & Space Complexity)
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Data_Structures-Focus-blue?style=flat-square" />
+  </p>
+</div>
 
 ---
-*Follow my progress as I tackle new challenges every day!*
+
+### 📌 Project Overview
+This repository tracks my progress through the **LeetCode 75** study plan—a curated list of the most essential problems for mastering technical interviews. Each solution is implemented in **Python** with a focus on optimal time and space complexity.
+
+### 📂 Repository Roadmap
+* **[Easy](./Easy)**: Strengthening fundamentals in Arrays, Strings, and Hash Maps.
+* **[Medium](./Medium)**: Mastering Two Pointers, Sliding Windows, and Trees.
+* **[Hard](./Hard)**: Tackling complex Dynamic Programming and Graph problems.
+
+---
+
+<div align="right">
+  <a href="https://leetcode.com/u/Reggie45/">
+    <b>View My Full LeetCode Profile ➔</b>
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>"The best way to predict the future is to invent it." - <b>Alan Kay</b></sub>
+</div>
