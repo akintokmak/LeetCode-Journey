@@ -17,4 +17,4 @@ class Solution:
 
 
 slt = Solution()
-print(slt.productExceptSelf([-1,1,0,-3,3]))
+print(slt.productExceptSelf([1,2,3,4]))
