@@ -12,10 +12,10 @@
       <td align="center" width="150"><b>🎯 LC 75</b></td>
     </tr>
     <tr>
-      <td align="center">5</td>
+      <td align="center">6</td>
       <td align="center">4</td>
       <td align="center">0</td>
-      <td align="center">9 / 75</td>
+      <td align="center">10 / 75</td>
     </tr>
   </table>
 
